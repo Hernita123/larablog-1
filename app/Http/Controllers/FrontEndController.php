@@ -25,7 +25,6 @@ class FrontEndController extends Controller
     {
         return view('frontend.category');
     }
-
     /**
      * Display a listing of the search resource.
      *
@@ -34,8 +33,7 @@ class FrontEndController extends Controller
     public function search()
     {
         return view('frontend.search');
-    }
-
+    } 
     /**
      * Display the specified resource.
      *

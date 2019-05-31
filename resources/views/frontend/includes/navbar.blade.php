@@ -14,6 +14,7 @@
                     <li><a href="{{ url('/') }}">Home</a></li>
                     <li><a href="{{ url('/category/1') }}">News</a></li>
                     <li><a href="{{ url('/category/1') }}">Travel</a></li>
+                    <li><a href="{{ url('/login') }}">Login</a></li>
                     <li>
                         <a href="{{ url('/search/1') }}">
                             <i class="fa fa-search"></i> Pencarian
